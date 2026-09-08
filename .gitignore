@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ============================
+# SRS Lipid Droplet Project
+# ============================
+
+# Raw/private experimental datasets
+data/raw/
+data/private/
+
+# Generated analysis results
+results/
+outputs/
+
+# macOS
+.DS_Store
+
+# Temporary files
+temp/
+tmp/
