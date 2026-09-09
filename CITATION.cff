@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: “If you use this software or trained model in your research, please cite this software.”
+title: “SRS Lipid Droplet StarDist”
+type: software
+authors:
+  * family-name: “Li”
+    given-name: “Shizheng”
+    repository-code: “https://github.com/shl591shl591/SRS_LipidDroplet_StarDist”
+    url: “https://github.com/shl591shl591/SRS_LipidDroplet_StarDist”
+    license: MIT
+    version: 0.1.0
+    date-released: 2026-09-09
+  
+keywords:
+  * Stimulated Raman scattering
+  * SRS microscopy
+  * lipid droplets
+  * StarDist
+  * instance segmentation
+  * microscopy
+  * image analysis
+  * deep learning
+    
+abstract: >-
+    SRS Lipid Droplet StarDist is a StarDist-based image-analysis workflow
+    for automated instance segmentation and quantitative analysis of lipid
+    droplets in stimulated Raman scattering microscopy images. The workflow
+    supports individual lipid-droplet detection, counting, area measurement,
+    size analysis, batch processing, segmentation-mask export, and
+    quantitative data export.
