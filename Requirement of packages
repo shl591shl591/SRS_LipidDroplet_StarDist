@@ -1,0 +1,11 @@
+tensorflow
+stardist
+csbdeep
+numpy
+scipy
+scikit-image
+tifffile
+pandas
+matplotlib
+jupyter
+ipykernel
