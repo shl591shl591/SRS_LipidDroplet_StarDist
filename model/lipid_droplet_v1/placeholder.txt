@@ -1,1 +1,1 @@
-
+Placeholder for pretrained StarDist model files.
